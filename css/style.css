@@ -1,0 +1,23 @@
+
+input[type="text"].border-green,
+input[type="email"].border-green,
+textarea.border-green{
+    border-color: green;
+}
+
+input[type="text"].border-red,
+input[type="email"].border-red,
+textarea.border-red{
+    border-color: red;
+}
+
+.error{
+    color: red;
+}
+
+.hidden{
+    display: none;
+}
+
+
+
